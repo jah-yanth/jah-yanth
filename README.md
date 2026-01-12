@@ -4,7 +4,7 @@ I’m Jayanth , a junior at [IIIT Kottayam](https://iiitkottayam.ac.in/#!/home) 
 
 Design has become one of my favorite parts of front-end development—whether it’s creating eye-catching components or admiring the work of other talented developers. In my free time, I am scrolling reddit or admiring some random figma file or trying to find the inspiration for new designs.
 
-🔭 I’m currently working on MinuteMade<br>🌱 I’m currently learning NextJS<br>💬 Ask me about GeoPolitics<br>📫 How to reach me studiousjayanth19@gmail.com<br>
+🔭 I’m currently working on DevFlow<br>🌱 I’m currently ~~learning~~ experimenting with NextJS<br>💬 Ask me about GeoPolitics<br>📫 How to reach me studiousjayanth19@gmail.com<br>
 
 ## 🌐 Socials:
 
