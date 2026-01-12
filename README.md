@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/97/a9/93/97a993e966c9a8244038675f0407399d.gif" />
+  <img src="./pic.jpg" align="center" />
 </p>
 
 I’m Jayanth , a junior at [IIIT Kottayam](https://iiitkottayam.ac.in/#!/home) pursuing Computer Science. I code when i dont have anything interesting to do, I love to solve dsa questions and learn new things in nextjs. I love design and i hope to be able to build websites that makes the creative person in me happy. You can always catch me watching F1 edits or race highlights when i dont feel like coding. If i dont wanna be indoors, gym is the next best place to be or else an indoor sports stadium playing badminton or trying out other sports.
